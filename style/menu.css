@@ -1,0 +1,59 @@
+.babe{
+    
+    width: 80%;
+    margin: auto;
+}
+h6{
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+.foodmenu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
+    width: 95%;
+    
+}
+.hello1,.hello3,.hello22,.hello44{
+    background: rgb(184, 184, 94);
+}
+.hey1{
+    margin: auto;
+    width: 95%;
+    align-items: center;
+}
+.hello2,.hello4,.hello11,.hello33{
+    background: rgb(148, 148, 108);
+}
+.one1{
+    width: 95%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 35vh;
+}
+.one2{
+    width: 95%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 35vh;
+}
+.one3{
+    width: 95%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 35vh;
+}
+.one4{
+    width: 95%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 35vh;
+}
+.hehe{
+    margin-left: 30%;
+}
+.p{
+   
+    font-family: Cursive;
+}
